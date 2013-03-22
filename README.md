@@ -24,3 +24,9 @@ a function to more easily enqueue kernels
 
 ==
 a set of functions to operate on complex numbers
+
+==
+a function which takes a list of kernel files and compiles them
+
+==
+functions to save/load compiled kernels.
