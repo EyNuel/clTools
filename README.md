@@ -30,3 +30,9 @@ a function which takes a list of kernel files and compiles them
 
 ==
 functions to save/load compiled kernels.
+
+==
+a function to print human-readable opencl error codes
+
+==
+a function to clean up your OpenCL environment
